@@ -1,0 +1,38 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta name='description' content='Homepage of Leixian Shen, a master student from Tsinghua University.'>
+    <meta name="baidu-site-verification" content="code-dJkzP7zuUo" />
+    <meta name="msvalidate.01" content="B02C1AE6FEF412A455B5E121F8A7116B" />
+    <meta name="google-site-verification" content="dpQc-kWtPUuYbqbk896VMBhq3jUTedzVLt0Q6cFR4A4" />
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

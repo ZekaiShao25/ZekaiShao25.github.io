@@ -7,7 +7,7 @@
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Siming Chen</font>](http://simingchen.me/) <br>
 
 - ### *2019.09 - 2023.06*,  School of Information Science and Technology, Fudan University (FDU). <br>
-*Bachelor* in Intelligent Science and Technology (Graduation with Honor)
+*Bachelor* in Intelligent Science and Technology (Hornored Class)
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Siming Chen</font>](http://simingchen.me/)<br>
 
 

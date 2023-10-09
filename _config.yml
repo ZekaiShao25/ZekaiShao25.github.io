@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Leixian Shen | Homepage"
+title                    : "Zekai Shao | Homepage"
 description              : ""
-repository               : "shenleixian.github.io"
+repository               : "ZekaiShao25.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : ""
-  avatar           : "images/Leixian1.jpg"
+  avatar           : "images/photo.jpg"
   bio              : ""
-  location         : "Hong Kong"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=NxVwq4cAAAAJ&hl=en&sortby=pubdate"
-  email            : "lshenaj@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Shen-Leixian"
+  googlescholar    : "https://scholar.google.com/citations?user=XA4gczYAAAAJ&hl=en"
+  email            : "gemini25szk@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :

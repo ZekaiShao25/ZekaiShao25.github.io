@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/transforlearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
+### TransforLearn: Interactive Visual Tutorial for the Transformer Model
 
 Lin Gao, **<u>Zekai Shao</u>**, Ziqin Luo, Haibo Hu, Cagatay Turkay and Siming Chen
 

@@ -1,5 +1,5 @@
 
-# 📖 Selected Awards
+# 🏆 Selected Awards
 -	China National Scholarship. 2023
 -	Outstanding Graduate of FDU. 2023
 -	Second Price in Doctoral Forum of SDS，FDU. 2022

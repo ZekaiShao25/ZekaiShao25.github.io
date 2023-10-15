@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Zekai's personal page!"
-description              : ""
+title                    : "Zekai Shao | Fudan University"
+description              : "Welcome to Zekai's homepage!"
 repository               : "ZekaiShao25.github.io"
 google_scholar_stats_use_cdn : false
 

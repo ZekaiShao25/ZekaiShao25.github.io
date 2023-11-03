@@ -14,6 +14,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 20
     <a class="_blank" href="./pdf/transforlearn.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327353">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
 </div>
 </div>
 </div>

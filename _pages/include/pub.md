@@ -1,7 +1,40 @@
 # 📖 Publications
 
+<!-- IEEE PVis 2024 ADVA-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024</div><img src='images/paper/adva.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Interpreting Autonomous Driving Corner Cases: A Visual Analytics Approach
+
+Yi Sun, **<u>Zekai Shao</u>**, Xingyu Qiu, Yun Li, Ting Liu, Linbing Xiang, Dong Sun, Siming Chen
+
+IEEE 17th Pacific Visualization Conference (PacificVis 2024).
+
+<div class="extra-links">
+    Coming Soon.
+</div>
+</div>
+</div>
+
+
+<!-- IEEE TVCG 2024 LEVA-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/leva.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### LEVA: Using Large Language Models to Enhance Visual Analytics
+
+Yuheng Zhao, Yixing Zhang, Yu Zhang, Xinyi Zhao, Junjie Wang, **<u>Zekai Shao</u>**, Cagatay Turkay, Siming Chen
+
+IEEE Transactions on Visualization and Computer Graphics 2024.
+
+<div class="extra-links">
+    Coming Soon.
+</div>
+</div>
+</div>
+
 <!-- IEEE VIS 2023 transforlearn-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/transforlearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 23</div><img src='images/paper/transforlearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### TransforLearn: Interactive Visual Tutorial for the Transformer Model

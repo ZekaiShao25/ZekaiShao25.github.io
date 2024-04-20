@@ -11,7 +11,9 @@ Yi Sun, **<u>Zekai Shao</u>**, Xingyu Qiu, Yun Li, Ting Liu, Linbing Xiang, Dong
 IEEE 17th Pacific Visualization Conference (PacificVis 2024).
 
 <div class="extra-links">
-    Coming Soon.
+    <a class="_blank" href="./pdf/adva.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
 </div>
 </div>
 </div>
@@ -28,7 +30,15 @@ Yuheng Zhao, Yixing Zhang, Yu Zhang, Xinyi Zhao, Junjie Wang, **<u>Zekai Shao</u
 IEEE Transactions on Visualization and Computer Graphics 2024.
 
 <div class="extra-links">
-    Coming Soon.
+    <a class="_blank" href="./pdf/leva.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3368060">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2403.05816">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
 </div>
 </div>
 </div>

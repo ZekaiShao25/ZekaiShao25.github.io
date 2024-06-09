@@ -14,6 +14,9 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024).
     <a class="_blank" href="./pdf/adva.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
+    <a class="_blank" href="https://doi.org/10.1109/PacificVis60374.2024.00019">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
 </div>
 </div>
 </div>

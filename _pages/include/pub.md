@@ -1,5 +1,26 @@
 # 📖 Publications
 
+<!-- IEEE VIS 2024 TailorMind-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024</div><img src='images/paper/adva.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Fine‑Tuned Large Language Model for Visualization System: A Study on Self‑Regulated Learning in Education
+
+Lin Gao, Jing Lu, **<u>Zekai Shao</u>**, Ziyue Lin, Shengbin Yue, Chokit Ieong, Yi Sun, Zhongyu Wei, Siming Chen
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'24), 2025.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/tailormind.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2407.20570">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+</div>
+</div>
+</div>
+
 <!-- IEEE PVis 2024 ADVA-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024</div><img src='images/paper/adva.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

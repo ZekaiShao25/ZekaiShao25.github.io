@@ -68,7 +68,7 @@ IEEE Transactions on Visualization and Computer Graphics 2024.
 </div>
 
 <!-- IEEE VIS 2023 transforlearn-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 23</div><img src='images/paper/transforlearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/paper/transforlearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### TransforLearn: Interactive Visual Tutorial for the Transformer Model

@@ -1,7 +1,7 @@
 # 📖 Publications
 
 <!-- IEEE VIS 2024 TailorMind-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024</div><img src='images/paper/tailormind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2024</div><img src='images/paper/tailormind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Fine‑Tuned Large Language Model for Visualization System: A Study on Self‑Regulated Learning in Education

@@ -1,5 +1,6 @@
 
 # 🏆 Selected Awards
+-   Award of "Analysis-Driven Interaction Design" in IEEE VAST Challenge. 2024
 -	China National Scholarship. 2023
 -	Outstanding Graduate of FDU. 2023
 -	Second Price in Doctoral Forum of SDS，FDU. 2022

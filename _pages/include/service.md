@@ -4,4 +4,4 @@
 -   Journal Reviewer: Visual Informatics
 -	Conference Reviewer: ChinaVis 2023-2024, PacificVis 2024, CHI 2024-2025
 -	Conference Volunteer: IEEE VIS 2023
--	Teaching Assistant: Image Processing and Data Visualization (honored course) 2023 Fall
+-	Teaching Assistant: Image Processing and Data Visualization (honored course) 2023 Fall, Approaching Artificial Intelligence 2024 Fall

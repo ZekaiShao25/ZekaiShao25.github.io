@@ -5,7 +5,7 @@
 
 ### Narrative Player: Reviving Data Narratives with Visuals
 
-**<u>Zekai Shao<u>**, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
+**<u>Zekai Shao</u>**, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
 
 arXiv, 2024, Preprint.
 

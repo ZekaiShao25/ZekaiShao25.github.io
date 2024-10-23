@@ -1,4 +1,31 @@
 # 📖 Publications
+<!-- arxiv 2024 NarrativePlayer-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2024</div><img src='images/paper/tailormind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Narrative Player: Reviving Data Narratives with Visuals
+
+Zekai Shao, **<u>Leixian Shen</u>**, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
+
+arXiv, 2024, Preprint.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/narrativeplayer.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3456145">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+</div>
+</div>
+</div>
+
 
 <!-- IEEE VIS 2024 TailorMind-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2024</div><img src='images/paper/tailormind.png' alt="sym" width="100%"></div></div>
@@ -120,7 +147,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2023.
 
 Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, **<u>Zekai Shao</u>**, et al.
 
-arXiv, 2023.
+arXiv, 2023, Preprint.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/gptcapability.pdf" >

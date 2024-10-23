@@ -1,11 +1,11 @@
 # 📖 Publications
 <!-- arxiv 2024 NarrativePlayer-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2024</div><img src='images/paper/tailormind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper/narrativeplayer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Narrative Player: Reviving Data Narratives with Visuals
 
-Zekai Shao, **<u>Leixian Shen</u>**, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
+**<u>Zekai Shao**<u>, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
 
 arXiv, 2024, Preprint.
 

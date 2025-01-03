@@ -61,9 +61,9 @@ arXiv, 2024, Preprint.
 
 ### Fine‑Tuned Large Language Model for Visualization System: A Study on Self‑Regulated Learning in Education
 
-Lin Gao, Jing Lu, **<u>Zekai Shao</u>**, Ziyue Lin, Shengbin Yue, Chokit Ieong, Yi Sun, Zhongyu Wei, Siming Chen
+Lin Gao, Jing Lu, **<u>Zekai Shao</u>**, Ziyue Lin, Shengbin Yue, Chokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen
 
-IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'24), 2025.
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'24), 2024.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/tailormind.pdf" >

@@ -1,4 +1,33 @@
 # 📖 Publications
+
+<!-- TVCG 2025 NarrativePlayer-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/paper/narrativeplayer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Narrative Player: Reviving Data Narratives with Visuals
+
+**<u>Zekai Shao</u>**, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
+
+IEEE Transactions on Visualization and Computer Graphics, 2025.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/narrativeplayer.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3456145">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+</div>
+</div>
+</div>
+
+
 <!-- PVIS TVCG 2025 ChartInsighter-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG (PacificVis) 2025</div><img src='images/paper/chartinsighter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -26,33 +55,6 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE PacificVis'
 </div>
 </div>
 
-
-<!-- arxiv 2024 NarrativePlayer-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper/narrativeplayer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### Narrative Player: Reviving Data Narratives with Visuals
-
-**<u>Zekai Shao</u>**, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen  
-
-arXiv, 2024, Preprint.
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/narrativeplayer.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3456145">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
-        <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a>
-</div>
-</div>
-</div>
 
 
 <!-- IEEE VIS 2024 TailorMind-->
@@ -109,7 +111,7 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024).
 
 Yuheng Zhao, Yixing Zhang, Yu Zhang, Xinyi Zhao, Junjie Wang, **<u>Zekai Shao</u>**, Cagatay Turkay, Siming Chen
 
-IEEE Transactions on Visualization and Computer Graphics 2024.
+IEEE Transactions on Visualization and Computer Graphics, 2024.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/leva.pdf" >

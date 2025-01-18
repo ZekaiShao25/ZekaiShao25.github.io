@@ -1,5 +1,34 @@
 # 📖 Publications
 
+<!-- CHI 2025 HumanAnalogy-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/paper/humananalogy.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Unlocking Scientific Concepts: How Effective Are LLM-Generated Analogies for Student Understanding and Classroom Practice?
+
+**<u>Zekai Shao<sup>\*</sup></u>**, Siyu Yuan<sup>\*</sup>, Lin Gao, Yixuan He, Deqing Yang, Siming Chen  
+
+The ACM CHI conference on Human Factors in Computing Systems (conditionally accepted), 2025
+
+<!-- <div class="extra-links">
+    <a class="_blank" href="./pdf/narrativeplayer.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3530512">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+</div> -->
+</div>
+</div>
+
+
+
 <!-- TVCG 2025 NarrativePlayer-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/paper/narrativeplayer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

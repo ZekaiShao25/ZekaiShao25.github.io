@@ -1,14 +1,14 @@
 # 📖 Publications
 
 <!-- CHI 2025 HumanAnalogy-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/paper/humananalogy.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/paper/humananalogy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Unlocking Scientific Concepts: How Effective Are LLM-Generated Analogies for Student Understanding and Classroom Practice?
 
-**<u>Zekai Shao<sup>\*</sup></u>**, Siyu Yuan<sup>\*</sup>, Lin Gao, Yixuan He, Deqing Yang, Siming Chen  
+**<u>Zekai Shao</u>**<sup>\*</sup>, Siyu Yuan<sup>\*</sup>, Lin Gao, Yixuan He, Deqing Yang, Siming Chen  
 
-The ACM CHI conference on Human Factors in Computing Systems (conditionally accepted), 2025
+The ACM CHI conference on Human Factors in Computing Systems, 2025 (conditionally accepted).
 
 <!-- <div class="extra-links">
     <a class="_blank" href="./pdf/narrativeplayer.pdf" >

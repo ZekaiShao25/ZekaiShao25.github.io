@@ -78,7 +78,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE PacificVis'
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://github.com/wangfen01/ChartInsighter">
-        <i class="fa-brands fa-github" aria-hidden="true"></i> Github
+        <i class="fab fa-github" aria-hidden="true"></i> Github
     </a>
 </div>
 </div>

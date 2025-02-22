@@ -8,7 +8,7 @@
 
 **<u>Zekai Shao</u>**<sup>\*</sup>, Siyu Yuan<sup>\*</sup>, Lin Gao, Yixuan He, Deqing Yang, Siming Chen  
 
-The ACM CHI conference on Human Factors in Computing Systems, 2025 (conditionally accepted).
+The ACM CHI conference on Human Factors in Computing Systems, 2025.
 
 <!-- <div class="extra-links">
     <a class="_blank" href="./pdf/narrativeplayer.pdf" >

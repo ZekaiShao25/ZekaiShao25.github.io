@@ -10,20 +10,20 @@
 
 The ACM CHI conference on Human Factors in Computing Systems, 2025.
 
-<!-- <div class="extra-links">
-    <a class="_blank" href="./pdf/narrativeplayer.pdf" >
+<div class="extra-links">
+    <a class="_blank" href="./pdf/humananalogy.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3530512">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3530512">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2502.16895">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
+    <!-- <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
         <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a>
-</div> -->
+    </a> -->
+</div>
 </div>
 </div>
 

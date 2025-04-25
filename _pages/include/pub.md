@@ -14,9 +14,9 @@ The ACM CHI conference on Human Factors in Computing Systems, 2025.
     <a class="_blank" href="./pdf/humananalogy.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3530512">
+    <a class="_blank" href=" https://doi.org/10.1145/3706598.3714313">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2502.16895">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>

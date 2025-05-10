@@ -71,9 +71,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE PacificVis'
     <a class="_blank" href="./pdf/chartinsighter.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3456145">
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3567122">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2501.09349">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>

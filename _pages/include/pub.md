@@ -1,5 +1,32 @@
 # 📖 Publications
 
+<!-- CG&A Human-LLM Rating Alignment-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG&A 2025</div><img src='images/paper/humanllmratingalignment.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Do Language Model Agents Align with Humans in Rating Visualizations? An Empirical Study
+
+**<u>Zekai Shao*</u>**, Yi Shan*, Yixuan He, Yuxuan Yao, Junhong Wang, Xiaolong (Luke) Zhang, Yu Zhang, Siming Chen
+
+IEEE Computer Graphics & Applications, 2025.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/humanllmratingalignment.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2025.3567122">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2505.06702">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/ZekaiShao25/Agents-Ratings-in-VIS-Experiments">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+</div>
+</div>
+</div>
+
 <!-- CHI 2025 HumanAnalogy-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/paper/humananalogy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -1,6 +1,7 @@
 
 # 🤝 Service
 -   Session Chair: China-R Conference (AI+VIS Session) 2023
+-   Program Committee: ACM IUI 2026
 -   Journal Reviewer: ACM TiiS, Visual Informatics
 -	Conference Reviewer: VIS 2025, CHI 2024-2025, IUI 2025, CogSci 2025, C&C 2025 (with one Special Recognition), PacificVis 2024, ChinaVis 2023-2025 
 -	Conference Volunteer: IEEE VIS 2023

@@ -14,6 +14,11 @@
 
 ### Visiting
 
+
+- ### *2025.11 - now*, Yonsei University. <br>
+*Visiting PhD Student* in Human-Data-Interaction Lab
+&ensp;&ensp;&ensp;Advisor: [<font color=Black>Bongshin Lee</font>](https://bongshiny.com/)
+
 - ### *2022.11 - 2023.09*, Microsoft Research Asia (MSRA). <br>
 *Research Intern* in DKI (Data, Knowledge, and Intelligence) Group
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Yun Wang</font>](https://www.microsoft.com/en-us/research/people/wangyun/) and [<font color=Black>Haidong Zhang</font>](https://www.microsoft.com/en-us/research/people/haizhang/)

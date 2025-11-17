@@ -1,5 +1,6 @@
 
 # 🏆 Selected Awards
+-   The Fudan University Dong Scholarship. 2025
 -   Award of "Analysis-Driven Interaction Design" in IEEE VAST Challenge. 2024
 -	China National Scholarship. 2023
 -	Outstanding Graduate of FDU. 2023

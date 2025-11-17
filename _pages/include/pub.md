@@ -6,7 +6,7 @@
 
 ### Do Language Model Agents Align with Humans in Rating Visualizations? An Empirical Study
 
-**<u>Zekai Shao*</u>**, Yi Shan*, Yixuan He, Yuxuan Yao, Junhong Wang, Xiaolong (Luke) Zhang, Yu Zhang, Siming Chen
+**<u>Zekai Shao</u>**<sup>\*</sup>, Yi Shan*, Yixuan He, Yuxuan Yao, Junhong Wang, Xiaolong (Luke) Zhang, Yu Zhang, Siming Chen
 
 IEEE Computer Graphics & Applications, 2025.
 

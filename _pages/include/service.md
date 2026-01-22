@@ -1,7 +1,7 @@
 
 # 🤝 Service
 -   Session Chair: China-R Conference (AI+VIS Session) 2023
--   Program Committee: ACM IUI 2026
+-   Program Committee: ACM CHI LBW 2026, ACM IUI 2026
 -   Journal Reviewer: IEEE TVCG, ACM TiiS, Visual Informatics
 -	Conference Reviewer: VIS 2025 (with two 'highly useful' notations), CHI 2024-2026 (with three Special Recognitions), IUI 2025-2026, CogSci 2025, C&C 2025 (with one Special Recognition), PacificVis 2024-2026, ChinaVis 2023-2025 
 -	Conference Volunteer: IEEE VIS 2023

@@ -1,5 +1,32 @@
 # 📖 Publications
 
+<!-- PVis 26 NotebookRAG-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2026</div><img src='images/paper/notebookrag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### NotebookRAG: Retrieving Multiple Notebooks to Augment the Generation of EDA Notebooks for Crowd-Wisdom
+
+Yi Shan, Yixuan He, **<u>Zekai Shao</u>**, Kai Xu, Siming Chen
+
+IEEE Pacific Visualization Conference, 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/notebookrag.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2505.06702">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/ZekaiShao25/Agents-Ratings-in-VIS-Experiments">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a> -->
+</div>
+</div>
+</div>
+
 <!-- CG&A Human-LLM Rating Alignment-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG&A 2025</div><img src='images/paper/humanllmratingalignment.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -145,7 +172,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'24), 20
 
 Yi Sun, **<u>Zekai Shao</u>**, Xingyu Qiu, Yun Li, Ting Liu, Linbing Xiang, Dong Sun, Siming Chen
 
-IEEE 17th Pacific Visualization Conference (PacificVis 2024).
+IEEE Pacific Visualization Conference, 2024.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/adva.pdf" >

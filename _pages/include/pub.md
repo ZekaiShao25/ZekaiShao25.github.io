@@ -32,7 +32,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
 ### MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning
 
-Xiaoliang Fu\*, Jiaye Lin\*, Yangyi Fang\*， Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
+Xiaoliang Fu\*, Jiaye Lin\*, Yangyi Fang\*, Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
 
 The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 

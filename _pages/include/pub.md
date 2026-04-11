@@ -1,4 +1,57 @@
 # 📖 Publications
+<!-- ACL 26 DGPO-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper/dgpo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### From log π to π: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight
+
+Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Chaowen Hu, Cong Qin, **<u>Zekai Shao</u>**, Binbin Zheng, Lu Pan, Ke Zeng
+
+The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/dgpo.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2603.14389">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/VenomRose-Juri/DGPO-RL">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+</div>
+</div>
+</div>
+
+<!-- ACL 26 MASPO-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper/maspo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning
+
+Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
+
+The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/maspo.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2602.17550">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/VenomRose-Juri/MASPO-RL">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+</div>
+</div>
+</div>
 
 <!-- PVis 26 NotebookRAG-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2026</div><img src='images/paper/notebookrag.png' alt="sym" width="100%"></div></div>
@@ -16,13 +69,10 @@ IEEE Pacific Visualization Conference, 2026.
     </a>
     <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://arxiv.org/abs/2505.06702">
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2602.17215">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <a class="_blank" href="https://github.com/ZekaiShao25/Agents-Ratings-in-VIS-Experiments">
-        <i class="fab fa-github" aria-hidden="true"></i> Github
-    </a> -->
 </div>
 </div>
 </div>

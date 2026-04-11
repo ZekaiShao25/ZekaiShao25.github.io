@@ -3,9 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper/dgpo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### From log π to π: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight
+### From $\boldsymbol{\log\pi}$ to $\boldsymbol{\pi}$: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight
 
-Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Chaowen Hu, Cong Qin, **<u>Zekai Shao</u>**, Binbin Zheng, Lu Pan, Ke Zeng
+Xiaoliang Fu*, Jiaye Lin*, Yangyi Fang*, Chaowen Hu, Cong Qin, **<u>Zekai Shao</u>**, Binbin Zheng, Lu Pan, Ke Zeng
 
 The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
@@ -32,7 +32,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
 ### MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning
 
-Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
+Xiaoliang Fu*, Jiaye Lin*, Yangyi Fang*, Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
 
 The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 

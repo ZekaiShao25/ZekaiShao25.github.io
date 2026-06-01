@@ -24,7 +24,7 @@ author:
   name             : ""
   avatar           : "images/photo1.jpg"
   bio              : ""
-  location         : "Seoul/Shanghai"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XA4gczYAAAAJ&hl=en"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

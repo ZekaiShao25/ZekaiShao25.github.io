@@ -15,7 +15,7 @@
 ### Visiting
 
 
-- ### *2025.11 - now*, Yonsei University. <br>
+- ### *2025.11 - 2026.05*, Yonsei University. <br>
 *Visiting PhD Student* in Human-Data Interaction Lab
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Bongshin Lee</font>](https://bongshiny.com/)
 

@@ -1,4 +1,67 @@
 # 📖 Publications
+<!-- IEEE VIS 2026 ChartFI -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG (VIS) 2026</div><img src='images/paper/chartfi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### ChartFI: Benchmarking Faithfulness and Insightfulness of Chart Descriptions from Multimodal Large Language Models
+
+Fen Wang<sup>\*</sup>, **<u>Zekai Shao</u>**<sup>\*</sup>, Qiman Kang, Chunran Hu, Zhixuan Zhang, Lexu Xie, Chao Liu, Siming Chen
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'26), 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/chartfi.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://github.com/wangfen01/ChartFI">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+</div>
+</div>
+</div>
+
+<!-- IEEE VIS 2026 DeepConnect -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG (VIS) 2026</div><img src='images/paper/deepconnect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations
+
+Yingchaojie Feng, **<u>Zekai Shao</u>**, Yiqun Sun, Yixuan Tang, Anthony K. H. Tung
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'26), 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/deepconnect.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://deepconnect.sg">
+        <i class="fas fa-link" aria-hidden="true"></i> Demo
+    </a>
+</div>
+</div>
+</div>
+
+<!-- IEEE VIS 2026 SalusChart -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2026</div><img src='images/paper/saluschart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### SalusChart: A Data Visualization Library for Mobile Health Apps
+
+Sebin Hwang<sup>\*</sup>, Seongjae Bae<sup>\*</sup>, Jehu Ahn, **<u>Zekai Shao</u>**, Eun Kyoung Choe, Bongshin Lee
+
+IEEE Visualization and Visual Analytics Conference (Short Paper), 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/saluschart.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://github.com/HDIL-YS/SalusChart">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+</div>
+</div>
+</div>
+
 <!-- ACL 26 DGPO-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper/dgpo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -322,7 +385,6 @@ arXiv, 2023, Preprint.
 </div>
 </div>
 </div>
-
 
 
 

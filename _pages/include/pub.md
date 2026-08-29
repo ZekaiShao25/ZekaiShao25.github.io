@@ -1,4 +1,31 @@
 # 📖 Publications
+<!-- EMNLP 2026 Findings DVBench -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/paper/dvbench.png' alt="DVBench overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### DVBench: Benchmarking MLLMs for Understanding Dynamic Charts and Narratives in Data Videos
+
+Bomiao Wang<sup>\*</sup>, **<u>Zekai Shao</u>**<sup>\*</sup>, Jiexiang Lan, Xiaoliang Fu, Xingchen Zeng, Siming Chen
+
+Findings of the Association for Computational Linguistics: EMNLP 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/dvbench.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://bomiaowang.github.io/DVBench/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+    <a class="_blank" href="https://github.com/BomiaoWang/DVBench">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+    <a class="_blank" href="https://huggingface.co/datasets/BomiaoWang/DVBench">
+        <i class="fa-brands fa-hugging-face" aria-hidden="true"></i> Hugging Face
+    </a>
+</div>
+</div>
+</div>
+
 <!-- IEEE VIS 2026 ChartFI -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG (VIS) 2026</div><img src='images/paper/chartfi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -385,6 +412,4 @@ arXiv, 2023, Preprint.
 </div>
 </div>
 </div>
-
-
 

@@ -13,6 +13,9 @@ Findings of the Association for Computational Linguistics: EMNLP 2026.
     <a class="_blank" href="./pdf/dvbench.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
+    <a class="_blank" href="https://arxiv.org/abs/2608.29711">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
     <a class="_blank" href="https://bomiaowang.github.io/DVBench/">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
@@ -40,6 +43,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'26), 20
     <a class="_blank" href="./pdf/chartfi.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
+    <a class="_blank" href="https://arxiv.org/abs/2605.23694">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
     <a class="_blank" href="https://github.com/wangfen01/ChartFI">
         <i class="fab fa-github" aria-hidden="true"></i> Github
     </a>
@@ -60,6 +66,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'26), 20
 <div class="extra-links">
     <a class="_blank" href="./pdf/deepconnect.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2608.05134">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://deepconnect.sg">
         <i class="fas fa-link" aria-hidden="true"></i> Demo
@@ -103,9 +112,9 @@ The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
     <a class="_blank" href="./pdf/dgpo.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+    <a class="_blank" href="https://doi.org/10.18653/v1/2026.acl-long.1921">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2603.14389">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
@@ -130,9 +139,9 @@ The 64th Annual Meeting of the Association for Computational Linguistics, 2026.
     <a class="_blank" href="./pdf/maspo.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+    <a class="_blank" href="https://doi.org/10.18653/v1/2026.acl-long.1918">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2602.17550">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
@@ -157,9 +166,9 @@ IEEE Pacific Visualization Conference, 2026.
     <a class="_blank" href="./pdf/notebookrag.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/MCG.2025.3586461">
+    <a class="_blank" href="https://doi.org/10.1109/PacificVis68791.2026.00043">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2602.17215">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
@@ -412,4 +421,3 @@ arXiv, 2023, Preprint.
 </div>
 </div>
 </div>
-

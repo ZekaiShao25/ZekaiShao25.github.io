@@ -44,9 +44,9 @@
 .page__content .publications-heading {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-wrap: wrap;
-    gap: 0.25em 1em;
+    gap: 0.25em 0.65em;
     margin: 1em 0 0.5em;
     border-bottom: 1px solid #efefef;
 
@@ -59,10 +59,10 @@
     .publication-notes {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.25em 1em;
+        gap: 0.25em 0.9em;
         padding-bottom: 0.5em;
         color: #666;
-        font-size: 0.7em;
+        font-size: 0.85em;
     }
 }
 
@@ -73,7 +73,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1.1em 0;
     
 
     .paper-box-image{

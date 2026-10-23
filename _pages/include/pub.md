@@ -1,4 +1,88 @@
-# 📖 Publications
+<div class="publications-heading">
+    <h1 id="-publications">📖 Publications</h1>
+    <div class="publication-notes" aria-label="Author contribution notes">
+        <span><sup>*</sup> Co-first authors</span>
+        <span><sup>†</sup> Project Lead</span>
+    </div>
+</div>
+<!-- arXiv 2026 Code2Video-Compass -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/paper/code2video-compass.png' alt="Code2Video-Compass benchmark overview (Figure 1)" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V
+
+Zhenghan Chen, **<u>Zekai Shao</u>**<sup>†</sup>, Xin Lin, Leting Cheng, Siming Chen
+
+arXiv, 2026, Preprint.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/code2video-compass.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2610.28416">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://code2video-compass.github.io/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+    <a class="_blank" href="https://github.com/code2video-compass/Code2Video-Compass">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+    <a class="_blank" href="https://huggingface.co/datasets/code2video-compass/Code2Video-Compass">
+        <i class="fa-brands fa-hugging-face" aria-hidden="true"></i> Hugging Face
+    </a>
+</div>
+</div>
+</div>
+
+<!-- NeurIPS 2026 VEPO -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/paper/vepo.png' alt="VEPO comparison of standard entropy and effective entropy (Figure 1)" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### The Illusion of Diversity: Aligning LLM Exploration via Effective Entropy
+
+Xiaoliang Fu<sup>\*</sup>, Jiaye Lin<sup>\*</sup>, Yangyi Fang<sup>\*</sup>, Cong Qin<sup>\*</sup>, Binbin Zheng, Chaowen Hu, **<u>Zekai Shao</u>**
+
+The 40th Conference on Neural Information Processing Systems (NeurIPS), 2026.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/vepo.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+</div>
+</div>
+</div>
+
+<!-- arXiv 2026 ChartAnno -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/paper/chartanno.png' alt="ChartAnno task design overview (Figure 1)" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### ChartAnno: Benchmarking Multimodal Large Language Models for Chart Annotation Generation
+
+Zhenghan Chen<sup>\*</sup>, **<u>Zekai Shao</u>**<sup>\*</sup>, Lidan Tan, Xin Lin, Xingchen Zeng, Yi Shan, Ziyue Lin, Xiaoliang Fu, Xinyuan Liu, Yuetong Guo, Fen Wang, Bongshin Lee, Siming Chen
+
+arXiv, 2026, Preprint.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/chartanno.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2608.03464">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://chartanno.github.io/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+    <a class="_blank" href="https://github.com/ChartAnno/ChartAnno">
+        <i class="fab fa-github" aria-hidden="true"></i> Github
+    </a>
+    <a class="_blank" href="https://huggingface.co/datasets/chartanno/ChartAnno">
+        <i class="fa-brands fa-hugging-face" aria-hidden="true"></i> Hugging Face
+    </a>
+</div>
+</div>
+</div>
+
 <!-- EMNLP 2026 Findings DVBench -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/paper/dvbench.png' alt="DVBench overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

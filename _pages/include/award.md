@@ -1,5 +1,6 @@
 
 # 🏆 Selected Awards
+-   CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students. 2026
 -   The Fudan University Dong Scholarship. 2025
 -   Award of "Analysis-Driven Interaction Design" in IEEE VAST Challenge. 2024
 -	China National Scholarship. 2023

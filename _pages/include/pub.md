@@ -49,6 +49,9 @@ The 40th Conference on Neural Information Processing Systems (NeurIPS), 2026.
     <a class="_blank" href="./pdf/vepo.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
+    <a class="_blank" href="https://arxiv.org/abs/2611.15493">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
 </div>
 </div>
 </div>
